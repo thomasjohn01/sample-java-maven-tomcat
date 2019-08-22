@@ -11,7 +11,7 @@
   <form method="get">
     <input type="checkbox" name="author" value="Valentino Rossi">Rossi
     <input type="checkbox" name="author" value="Sachin Tendulkar">Sachin
-    <input type="checkbox" name="author" value="Leonal Messi">Messi
+    <input type="checkbox" name="author" value="Leonel Messi">Messi
     <input type="checkbox" name="author" value="Rafael Nadal">Nadal
     <input type="submit" value="Query">
   </form>
