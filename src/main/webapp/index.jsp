@@ -9,10 +9,10 @@
 <body>
   <h2>Choose authors:</h2>
   <form method="get">
-    <input type="checkbox" name="author" value="Tan Ah Teck">Tan
-    <input type="checkbox" name="author" value="Mohd Ali">Ali
-    <input type="checkbox" name="author" value="Kumar">Kumar
-    <input type="checkbox" name="author" value="Peter Johnson">Peter
+    <input type="checkbox" name="author" value="Valentino Rossi">Rossi
+    <input type="checkbox" name="author" value="Sachin Tendulkar">Sachin
+    <input type="checkbox" name="author" value="Leonal Messi">Messi
+    <input type="checkbox" name="author" value="Rafael Nadal">Nadal
     <input type="submit" value="Query">
   </form>
   
