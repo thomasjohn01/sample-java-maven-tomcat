@@ -7,7 +7,7 @@
 </head>
      
 <body>
-  <h2>Choose authors:</h2>
+  <h2>Choose sportsmen:</h2>
   <form method="get">
     <input type="checkbox" name="author" value="Valentino Rossi">Rossi
     <input type="checkbox" name="author" value="Sachin Tendulkar">Sachin
