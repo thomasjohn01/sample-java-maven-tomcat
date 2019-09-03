@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/thomasp66/Sample_Java_Maven_Tomcat_Project/_apis/build/status/thomasjohn01.sample-java-maven-tomcat?branchName=master)](https://dev.azure.com/thomasp66/Sample_Java_Maven_Tomcat_Project/_build/latest?definitionId=1&branchName=master)
+
 # java-tomcat-maven-example
 
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
